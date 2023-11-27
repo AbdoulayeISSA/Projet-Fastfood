@@ -1,0 +1,31 @@
+PROJET FIRST FASTFOOD 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   IMAGE/Dind.jpg
+#	new file:   IMAGE/accessory-3002608_1920.jpg
+#	new file:   IMAGE/adult-1867665_1920.jpg
+#	new file:   IMAGE/banner-bg.png
+#	new file:   IMAGE/caille.jpg
+#	new file:   IMAGE/chicken-1807883_1920.jpg
+#	new file:   IMAGE/chicken-4110212_1920.jpg
+#	new file:   IMAGE/ento.jpg
+#	new file:   IMAGE/food-8341388_1920.jpg
+#	new file:   IMAGE/illustration-du-courrier_24908-54790.jpg
+#	new file:   IMAGE/images.png
+#	new file:   IMAGE/istockphoto-1340273442-1024x1024.jpg
+#	new file:   IMAGE/istockphoto-1369184877-1024x1024.jpg
+#	new file:   IMAGE/logo-2651379_1920.png
+#	new file:   IMAGE/pngtree-calling-icon-for-your-project-png-image_1898555.jpg
+#	new file:   IMAGE/poulet (2).jpg
+#	new file:   IMAGE/poulet-entier-roti-planche-decouper-bois_341862-8981.jpg
+#	new file:   IMAGE/poulet.jpg
+#	new file:   IMAGE/tim-bish-Bs_4ce9_w0I-unsplash.jpg
+#	new file:   index.html
+#	new file:   style.css
+#
